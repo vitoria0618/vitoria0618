@@ -1,18 +1,15 @@
-### Hi there 👋
+### Boas vinda ao meu perfil 💙
 
+Meu nome é Pamela Vitória
 
-**vitoria0618/vitoria0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no Alura
+- Estou me desenvolvendo na Linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+-pamela.ferreira.batista@escola.pr.gov.br
 
-  
+-@bpamelavitoria1  
+
+![](https://media.tenor.com/j26aOjPeKfgAAAAd/rio-jewel-uh-oh.gif)
