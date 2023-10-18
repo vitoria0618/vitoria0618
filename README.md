@@ -2,7 +2,7 @@
 
 Meu nome é Pamela Vitória
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na Linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Pamela Vitória
 
 -@bpamelavitoria1  
 
-![](https://media.tenor.com/j26aOjPeKfgAAAAd/rio-jewel-uh-oh.gif)
+![](https://media.tenor.com/82CTMCxKXkoAAAAC/rio-rio2.gif)
